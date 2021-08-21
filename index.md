@@ -1,12 +1,6 @@
-# RVA (Kind?) Collective
-## A community for cannabis growers
+**Mission Statement**
 
-The community should have a values statement which provides a declarative reference of the vision and norms
-Mission Statement
-Link to google form that collects answers to the following questions. These can be used to come up with a mission statement and/or community name.
-
-* 3 words to describe the community values you want to see
-* 3 words to describe the physical space you want the community to inhabit
+_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eros dui, semper._
 
 ### Goals
 
