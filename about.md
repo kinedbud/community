@@ -1,6 +1,8 @@
+--- 
 layout: page
 title: "ABOUT"
 permalink: /about/
+---
 
 Kind bud, more properly known as “kine bud,” is a term for high quality cannabis flower. The term “kine” is native Hawaiian for “excellent,” and it is often mispronounced by English speakers as “kind.”
 
