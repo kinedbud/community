@@ -1,8 +1,5 @@
---- 
-layout: page
-title: About
-permalink: /about/
-filename: about.md
+---
+layout: default
 ---
 
 # About
