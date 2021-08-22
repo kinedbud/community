@@ -13,7 +13,7 @@ The community should be…
 * A trusted place to exchange gifts, show off your home grown products, gain feedback
 * Knowledge exchange, help each other become successful
 * Support network for budding businesses 
-* Build a "Pay it forward" culture, propagate kindness
+* Build a "Pay it forward" culture
 
 
 ## Norms
