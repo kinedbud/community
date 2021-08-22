@@ -39,13 +39,6 @@
         </ul>
         {% endif %}
 
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
         <h2>Navigation</h2>
         <div class="wrapper">
             {%- assign default_paths = site.pages | map: "path" -%}
@@ -66,6 +59,17 @@
             </nav>
             {%- endif -%}
         </div>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
