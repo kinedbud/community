@@ -1,7 +1,8 @@
 --- 
 layout: page
-title: "about"
+title: About
 permalink: /about/
+filename: about.md
 ---
 
 # About
