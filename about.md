@@ -1,5 +1,7 @@
 ---
 layout: default
+title: About
+navigation_weight: 2
 ---
 
 # About
