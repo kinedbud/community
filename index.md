@@ -9,21 +9,16 @@ navigation_weight: 1
 _To propagate kindness, be an open and member driven community, celebrate individual craft over corporate greed, and support local entrepreneurs._
 
 
-## Goals
+## Ethos
 
-The community should be…
-
-
+We are...
 
 * A trusted place to exchange gifts, show off your home grown products, gain feedback
 * Knowledge exchange, help each other become successful
 * Support network for budding businesses 
 * Build a "Pay it forward" culture
 
+## Guidelines
 
-## Norms
-
-
-
-* No monies until there is a legal framework to support it..
-* 21+
+1. Nothing for sale
+1. 21+

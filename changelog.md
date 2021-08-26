@@ -1,0 +1,1 @@
+- build site and document how to contribute
